@@ -1,0 +1,4 @@
+#! /usr/bin/env ruby
+
+require 'rubocopfixer'
+puts Rubocopfixer.hi(ARGV[0])
